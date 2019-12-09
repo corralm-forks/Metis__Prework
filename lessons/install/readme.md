@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Pre-work is configured for Python3 and Python2 will be deprecated soon by the Python core team.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +55,4 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+Python 3.7.5
